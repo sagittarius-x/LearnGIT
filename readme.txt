@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes
 change again
 remote change
-local change again
+remote change again
